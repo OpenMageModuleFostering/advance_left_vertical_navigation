@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Advance_Left_Vertical_Navigation",
+    "name": "OpenMageModuleFostering\/Advance_Left_Vertical_Navigation",
     "type": "magento-module",
-    "license": "http://opensource.org/licenses/osl-3.0.php",
+    "license": "http:\/\/opensource.org\/licenses\/osl-3.0.php",
     "homepage": "",
     "description": "Mtoo Advance Left Vertical Menu Navigation with nice css design like ebay ",
     "authors": [
-    {
-        "name": "Mtoo.inc",
-        "email": "sjgoodjob@gmail.com"
-    }
-],
+        {
+            "name": "Mtoo.inc",
+            "email": "sjgoodjob@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
